@@ -30,8 +30,8 @@ A Python-based Jarvis voice assistant that automates desktop tasks, opens apps, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Gitansh-Jarvis-AI.git
-cd Gitansh-Jarvis-AI
+git clone https://github.com/Gitanshh20/JarvisX.git
+cd JarvisX
 ```
 
 ### 2. Install dependencies
@@ -91,7 +91,7 @@ python main.py
 ## 📁 Project Structure
 
 ```
-Gitansh-Jarvis-AI/
+JarvisX/
 │── main.py
 │── README.md
 ```
